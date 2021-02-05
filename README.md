@@ -7,7 +7,7 @@
 - 🥉 Top 5 Hackers (3rd), University of Lagos - Hackerrank Algorithms Leaderboard.
 - ⚡ Open Source Contributor - Hacktoberfest 2019 & 2020.
 - 💯 Looking forward to contributing to more Open Source projects.
-- 🐱‍👤 Currently trying to master the art of buiding web based software.
+- 🐱‍👤 Currently trying to master the art of building web based software.
 
 ### Languages and Tools:
 
@@ -27,10 +27,11 @@
 
 <br />
 
-### Lets Connect:
+### Let's connect:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][https://patrick-ofili-dev.netlify.app/]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][youtube]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
+<!-- [](https://github.com/OfiliPatrick/pied-piper/blob/master/src/images/piedpreview.png?raw=true) -->

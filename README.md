@@ -1,13 +1,13 @@
 ### Hi there 👋, I'm Patrick Ofili.
 
-## Software Engineer, Full Stack Developer, Engineering Student.
+## Software Engineer, Full Stack Web Developer, Engineering Student.
 
 - 🚀 Beta Student Ambassador - Microsoft Learn.
 - 👨‍💻 Facebook Mentorship Program Participant 2020.
 - 🥉 Top 5 Hackers (3rd), University of Lagos - Hackerrank Algorithms Leaderboard.
 - ⚡ Open Source Contributor - Hacktoberfest 2019 & 2020.
 - 💯 Looking forward to contributing to more Open Source projects.
-- 🐱‍👤 Currently learning the art of buiding 
+- 🐱‍👤 Currently trying to master the art of buiding web based software.
 
 ### Languages and Tools:
 
@@ -25,13 +25,12 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
+<br />
 
 ### Lets Connect:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][youtube]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
 

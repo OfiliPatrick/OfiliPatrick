@@ -7,7 +7,7 @@
 - 🥉 Top 5 Hackers (3rd), University of Lagos - Hackerrank Algorithms Leaderboard.
 - ⚡ Open Source Contributor - Hacktoberfest 2019 & 2020.
 - 💯 Looking forward to contributing to more Open Source projects.
-- 🐱‍👤 Currently learning system design and distributed systems.
+- 🐱‍👤 Currently learning System Design/Distributed Systems and general Computer Science concepts.
 
 ### Languages and Tools:
 

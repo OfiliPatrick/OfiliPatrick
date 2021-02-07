@@ -2,7 +2,7 @@
 
 ## Software Engineer, Full Stack Web Developer, Engineering Student.
 
-- 🚀 Beta Student Ambassador - Microsoft Learn.
+- 🚀 Microsoft Learn Student Ambassador - Beta Milestone.
 - 👨‍💻 Software Engineering Mentee - Facebook Mentorship Program 2020.
 - 🥉 Top 5 Hackers (3rd), University of Lagos - Hackerrank Algorithms Leaderboard.
 - ⚡ Open Source Contributor - Hacktoberfest 2019 & 2020.

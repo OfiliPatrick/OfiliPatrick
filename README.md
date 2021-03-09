@@ -4,7 +4,6 @@
 
 - 🚀 Microsoft Learn Student Ambassador - Beta Milestone.
 - 👨‍💻 Software Engineering Mentee - Facebook Mentorship Program 2020.
-- 🥉 Top 5 Hackers (3rd), University of Lagos - Hackerrank Algorithms Leaderboard.
 - ⚡ Open Source Contributor - Hacktoberfest 2019 & 2020.
 - 💯 Looking forward to contributing to more Open Source projects.
 - 🐱‍👤 Currently learning System Design and general Computer Science concepts.

@@ -6,7 +6,7 @@
 - 👨‍💻 Software Engineering Mentee - Facebook Mentorship Program 2020.
 - ⚡ Open Source Contributor - Hacktoberfest 2019 & 2020.
 - 💯 Looking forward to contributing to more Open Source projects.
-- 🐱‍👤 Currently learning System Design and general Computer Science concepts.
+- 🐱‍👤 Currently learning System Design and interesting Computer Science concepts.
 
 ### Languages and Tools:
 

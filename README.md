@@ -30,7 +30,7 @@
 <br />
 
 ### Let's connect:
-
+[<img align="left" alt="Patrick Ofili | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/patrick-ofili-65056317a/)
 [<img align="left" alt="Patrick Ofili | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />](https://medium.com/@patrickofili16)
 [<img align="left" alt="Patrick Ofili | Hackerrank profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />](https://www.hackerrank.com/patrickofili16)
-[<img align="left" alt="Patrick Ofili | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/patrick-ofili-65056317a/)
+[<img align="left" alt="Patrick Ofili | Leetcode profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />](https://leetcode.com/PatrickOfili/)

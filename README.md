@@ -31,7 +31,6 @@
 
 ### Let's connect:
 
-[<img align="left" alt="Patrick Ofili | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://patrick-ofili-dev.netlify.app/)
 [<img align="left" alt="Patrick Ofili | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />](https://medium.com/@patrickofili16)
 [<img align="left" alt="Patrick Ofili | Hackerrank profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />](https://www.hackerrank.com/patrickofili16)
 [<img align="left" alt="Patrick Ofili | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/patrick-ofili-65056317a/)

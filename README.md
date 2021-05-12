@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Patrick Ofili.
 
-## Software Engineer, Full Stack Web Developer, Engineering Student.
+## Software Engineer & Engineering Student.
 
 - 🚀 Microsoft Learn Student Ambassador - Beta Milestone.
 - 👨‍💻 Software Engineering Mentee - Facebook Mentorship Program 2020.

@@ -6,10 +6,9 @@
 - 👨‍💻 Software Engineering Fellow - Major League Hacking.
 - 🚀 Microsoft Learn Student Ambassador - Beta Milestone.
 - ⚡ Software Engineering Mentee - Facebook Mentorship Program 2020.
-<!-- -  Open Source Contributor - Hacktoberfest 2019 & 2020. -->
-- 💯 Looking forward to contributing to more Open Source projects.
 - 🐱‍👤 Currently learning System Design and interesting Computer Science concepts.
-
+<!-- - 💯 Looking forward to contributing to Open Source projects. -->
+<!-- -  Open Source Contributor - Hacktoberfest 2019 & 2020. -->
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />

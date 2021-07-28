@@ -3,10 +3,10 @@
 ## Software Engineer & Engineering Student.
 
 
-- 👨‍💻 Software Engineering Fellow - Major League Hacking.
+- 👨‍💻 Software Engineering Fellow '21 - Major League Hacking.
 - 🚀 Microsoft Learn Student Ambassador - Beta Milestone.
 - ⚡ Software Engineering Mentee - Facebook Mentorship Program 2020.
-- 🐱‍👤 Currently learning System Design and interesting Computer Science concepts.
+- 🐱‍👤 Currently learning System Design and interesting CS concepts.
 <!-- - 💯 Looking forward to contributing to Open Source projects. -->
 <!-- -  Open Source Contributor - Hacktoberfest 2019 & 2020. -->
 ### Languages and Tools:
